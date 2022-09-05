@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "csc2033-team-19-stubank",
+  "private_key_id": "fe55bf034b137d700b0aa2d5ae48efa5d2a48426",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCn4UQN+mNmvYZy\nfdbYksul24hXh2BAwokIZ8NEYkA0JLnRtouwaT8aROKUogDsKNx+pLmKBD+Mxh5q\nKnSFG02bYt2moryknNuspIOkeXiM9whjqLqO+mKg0MvZoy4OwEip77sX7OFK/bUz\nq1DFJCL2YPP6RgZxq6sqcUOPGgJEiVjq16dfRjT/p6SCs/t5zBq3Y3CD9BIw2Gdo\nyznA5wmYwcWd0bIzbIGxie7jq1lUcE/8Sora8rJgXNodXeU8TY+bYqnpUkkI/twb\nHfqZpfpP1lRRJzrqN0VpjAsM8Q6QhOhCHChIaKS8QQ3J3U0HnXvLhdcC1d+6WdY1\nQLk53dbzAgMBAAECggEAAgxvRhtIB5LBfL7zz0OGbIreF42QEoMe+i4dE7e2/L2u\np3e/2EtN0f1opUxyyW70qISFSmvOS2KjTHx3I93I7ScZFadqY45KrYIIMsNweqaM\n1ihEjE2MNnJ+tBfmRyWxMqMApqDP3W2tsFM4ru5HrdQZJ9hJ6GW+tsu0sp7W6CIs\n+Q9yNQ+G74frWsvDAFfJNuxvdcQxfgaLtgBRXwQXHukGuCBISBJcxWVFgO7L/zFs\noQjUMAsP2lJYZXUzQLOpmnnQ5/vPLLVkFeXPNSTQrs7W7DZ8d85zwWcMUcn79H02\n4nohuxszOdT9GeSMrU29ohzJXC9GLX+nrbSxcWEhJQKBgQDaKtpIhxMemLJtaYjB\n8KINtgiCp9y3dNWfYUXXiJ7jiiIle3XJbeSE78rQKre70DRSNwFQ1+g8RBcFR5Ou\npJrh6gvVrW8iqrGNdl0iFUL71H+DnIi7XqB9WYOoLI14+sk6sx36gmN2phCTYP8g\nG4iKNO8ATAnbaFzpuy1yfNFf9wKBgQDE/f4jcadFcKAaLw8nyhuy07D8xOxJrkBv\nCo2ItEQfDNDdB/MIAukw/qAMUmJg5O7iN/z8oIbbmuuGnPmO0Ibr0jZAQ7JV6r0X\nhxHoKgl0OboZsSCHqvMqxkZBtU7XW8Y6irOiDsdYeS1jKxv86r0hAv2Dp4fprnb4\nvS3+WjM55QKBgEbn7pHr9LbZAgS1bBE8WC8Enrd4PzAQ9O0b/EsUyC9D0d1Exv90\ni/T4yn3lpFmSTa762Z6gzYXoy2KX5NO6A+yw2K/V8mzd9V74vUQ6jM60Pc1UrsvW\n8WpMEZIzCLftKkG9vVyRzCnfxztfJwwUZsgkdBkwnXOF88yzXQ38qz/5AoGBAKxY\n9BIai5hLUyfVaFMNlnI8l6put7Q3ChScjPu/i6IG2m2nWM/3jAHbpDdjlMLlSMMO\n7P4xjAtyXQHnMMfsVT7ZKbHMCKj2uP1upRIURTU0lEeKGsXXoOwZkLpIYHQ2zRXG\n6Cau+2XCjx0mSFRdI59QOHEJD/Y5N8mj6iuQyySpAoGAUN7gqywhRkKzBqUlKD7O\nK6zt8fosL1HYISfOW6i0FfYB7wHi99jfpC/iiwIElS9iLI/zKR87vdFgGwtxvlCl\nU92cQiAb0UxcOxnARF92ViegC4lUpZTPKr9XFMJzZ6gPTsRExp5VPAL4Wju2OdfR\n3wBC9ojMhYFAq9bH8RkGzdE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-v9t33@csc2033-team-19-stubank.iam.gserviceaccount.com",
+  "client_id": "100689802487297379578",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-v9t33%40csc2033-team-19-stubank.iam.gserviceaccount.com"
+}
